@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](first_chapter.md)
+1. [概述](README.md)
+2. [First Chapter](first_chapter.md)
 
